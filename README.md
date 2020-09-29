@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/RqQiVoh.png.jpg" width="300px">
 
-### नमस्ते (Namaste)🙏🏻 / Hi 👋🏻! I'm Ashwin.
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+### नमस्ते (Namaste)🙏🏻 / Hi 👋🏻! 
+### I'm Ashwin.
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" />
 
 I'm a Senior Software Engineer at MoneySmart
 
@@ -35,6 +36,5 @@ If you'd like to get in touch with me, you can reach me at [@ashwinkshenoy](http
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.</b> so if you want to say <b>hi, I'll be happy to chat with some coffee!</b> 😊</em>
 
