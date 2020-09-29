@@ -40,5 +40,5 @@ If you'd like to get in touch with me, you can reach me at [@ashwinkshenoy](http
 
 <br />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people.</b> so if you want to say <b>hi, I'll be happy to chat with some coffee!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people.</b> So if you want to say <b>hi, I'll be happy to chat with some coffee!</b> 😊</em>
 
