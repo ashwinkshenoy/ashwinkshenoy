@@ -2,7 +2,8 @@
 
 ### नमस्ते (Namaste)🙏🏻 / Hi 👋🏻! 
 ### I'm Ashwin.
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" />
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350px" /> -->
+<img src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.webp?cid=5a38a5a2vvtqu98jx4pkme5jnrrsv8iz6hilnbxyuxi5gxrk&rid=giphy.webp" align="right" width="350px" />
 
 I'm a Senior Software Engineer at MoneySmart
 
