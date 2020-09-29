@@ -24,7 +24,7 @@ I'm a Senior Software Engineer at MoneySmart
 
 <p><a href="https://www.ashwinshenoy.com">🌐 Check out my website</a></p>
 
-I've got lots of experience with Vue, Nuxt, bits of React and have been diving deep into the JamStack and serverless architecture. My main focus is e-commerce and am currently maintaing my first Open Source library VS-Modal Vue Plugin.
+I've got lots of experience with Vue, Nuxt, CSS, bits of React and have been diving deep into the JamStack and serverless architecture. My main focus is building Vue/React apps and am currently maintaing my first Open Source library VS-Modal Vue Plugin.
 
 If you'd like to get in touch with me, you can reach me at [@ashwinkshenoy](https://twitter.com/ashwinkshenoy).
 
