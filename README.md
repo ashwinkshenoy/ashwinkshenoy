@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sA6OuCz.jpg" width="500px">
+<img src="https://i.imgur.com/RqQiVoh.png.jpg" width="500px">
 <!--
 **ashwinkshenoy/ashwinkshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
